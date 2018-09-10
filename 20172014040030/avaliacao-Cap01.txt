@@ -1,0 +1,123 @@
+
+Sistemas Operacionais
+
+Capitulo-1
+
+1-
+Abstração e Gerência de recursos.
+
+2-
+Batch(de lote), de rede, distribuído, multiusuário, desktop, servidor, embarcado, tempo real.
+
+3-
+vantagens:
+permite a construção de sistemas mais interativos e facilita o trabalho dos programadores de aplicações.
+desafios:
+fornecer abstrações para sincronizar atividades interdependentes e prover formas de comunicação entre elas.
+
+4-
+Caracteristicas:
+comportamento temporal previsível (ou seja, seu tempo de resposta deve ser conhecido no melhor e pior caso de operação).A estrutura interna de um sistema operacional de tempo real deve ser construída de forma a minimizar esperas e latências imprevisíveis, como tempos de acesso a disco e sincronizações excessivas.
+
+Classificações: 
+
+soft real-time systems: A perda de prazos implica na degradação do serviço prestado.
+
+hard real-time systems: A perda de prazos pelo sistema pode perturbar o objeto controlado, com graves consequências humanas, econômicas ou ambientais.
+
+5-
+É a camada do sistema que está em contato com o hardware da máquina.
+
+6-
+Não. Qualquer aplicação poderia acessar o hardware e modifcá-lo de qualquer maneira, portanto seria extremamente facil realizar um ataque a tal sistema.
+
+7-
+Sim. Na estrutura de camadas.
+
+
+8-
+interrupções têm como origem eventos externos ao processador, enquanto exceções são eventos gerados pelo próprio processador e traps pelo software
+
+9-
+O processador perde tempo para varrer todo o sistema para verificar se há eventos a serem tratados ou não
+
+10-
+é uma função de biblioteca.
+
+
+11-
+Arquitetura					Benefícios							Deficiências
+
+°Sistemas Monolíticos				• Desempenho.						• O mal funcionamento de uma
+																	 aplicação do núcleo pode se alastrar e levar
+																	o sistema ao travamento ou a instabilidade.
+																	• Manutenção mais complexa;
+																	• Evolução mais complexa.
+
+
+
+
+Sistemas em Camadas				• Separação de código;					• Aumento no número de classes existentes no sistema.
+								• Permite a mudança de
+								implementação de uma
+								camada sem afetar a outra;
+									• Possibilita que uma
+								 camada trabalhe com 
+								diferentes versões de outra 
+								camada.						
+
+
+
+
+
+Sistemas Micronúcleo				• Robustez e flexibilidade				• O custo associado às trocas 
+																	de mensagens entre componentes
+								 									pode ser bastante elevado, o que 
+																	prejudica seu desempenho e diminui
+								 									a aceitação desta abordagem.
+								
+
+
+
+
+Máquinas Virtuais					• Aperfeiçoamento e testes 				• Custo adicional de execução dos
+								de novos sistemas operacionais;			processos na máquina virtual em
+								• Executar diferentes sistemas 			comparação com a máquina real.
+								operacionais sobre o mesmo 		 		Esse problema não existe em
+								hardware, simultaneamente;				ambientes cujo hardware suporta
+								• Simulação de configurações 			o conceito de virtualização, como
+								e situações diferentes do mundo			 é o caso dos mainframes.
+								 real, alterações e falhas no hardware 
+								para testes ou reconfiguração de um
+								 sistema operacional;
+								• Diminuir custos com hardware.
+
+
+12-
+T,S,E,D,M,E,K,S,D,E.
+
+
+13-
+C,E,F
+
+14-
+opções D e E pois tratam diretamente com o hardware
+
+15-
+5,9,1,4,8,2,7,3,6
+
+16-
+a III e a IV estão erradas pois descrevem o sistema operacional distribuído.
+
+
+17-
+As afirmações II e V estão corretas.
+I está errada pois uma máquina virtual de sistema é construída para suportar sistemas operacionais convidados completos.
+III está errada pois isso ocorre em sistemas monolíticos.
+IV está errada pois sistemas monolíticos não tem uma manutenção fácil.
+
+18-Para usar o clock
+
+19-
+
+
