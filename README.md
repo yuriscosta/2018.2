@@ -3,7 +3,9 @@ Respostas das avaliações do período de 2018.2
 
 ## Avaliações 1º Bimestre
 
-| # | Aluno | 01. Cap 01 Introdução a sistemas operacionais | 02. Relatório de visita ao Datacenter do IFRN | 03. Cap 02 Gerência de atividades | 04. Cap 04 Coordenação entre tarefas: demonstração de erro com semáforo | 05. Publicar imagem jdk no hub.docker.com | 06. Exercício em sala | 07. Publicar imagem do banco e app web no hub.docker.com |
+[Avaliação em sala](avaliacoes/bimestre-01-avaliacao-01.pdf)
+
+| # | Aluno | 01. Cap 01 Introdução a sistemas operacionais | 02. Relatório de visita ao Datacenter do IFRN | 03. Cap 02 Gerência de atividades | 04. Cap 04 Coordenação entre tarefas | 05. Publicar imagem jdk no hub.docker.com | 06. Cap 04 Coordenação entre tarefas | 07. Publicar imagem do banco e app web no hub.docker.com |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Adlem Dutra da Silva (20171014040021) | - | - | - | - | - | - | - |
 | 02 | Andre Luiz Bezerra Costa (20172014040011) | [01](20172014040011/avaliacao-01.pdf) | - | [03](20172014040011/avaliacao-03.pdf) | - | - | - | - |
