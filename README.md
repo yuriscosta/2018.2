@@ -5,7 +5,7 @@ Respostas das avaliações do período de 2018.2
 
 [Avaliação em sala](avaliacoes/bimestre-01-avaliacao-01.pdf)
 
-| # | Aluno | 01. Cap 01 Introdução a sistemas operacionais | 02. Relatório de visita ao Datacenter do IFRN | 03. Cap 02 Gerência de atividades | 04. Cap 04 Coordenação entre tarefas | 05. Publicar imagem jdk no hub.docker.com | 06. Cap 04 Coordenação entre tarefas | 07. Publicar imagem do banco e app web no hub.docker.com |
+| # | Aluno | [01. Cap 01 Introdução a sistemas operacionais](https://sistemas-operacionais.github.io/exams/#-01-cap-01-introdução-a-sistemas-operacionais) | [02. Relatório de visita ao Datacenter do IFRN](https://sistemas-operacionais.github.io/exams/#-02-relatório-de-visita-ao-datacenter-do-ifrn) | [03. Cap 02 Gerência de atividades](https://sistemas-operacionais.github.io/exams/#-03-cap-02-gerência-de-atividades) | [04. Cap 04 Coordenação entre tarefas](https://sistemas-operacionais.github.io/exams/#-04-cap-04-coordenação-entre-tarefas-demonstração-de-erro-com-semáforo) | [05. Publicar imagem jdk no hub.docker.com](https://sistemas-operacionais.github.io/exams/#-05-publicar-imagem-jdk-no-hubdockercom) | [06. Cap 04 Coordenação entre tarefas](https://sistemas-operacionais.github.io/exams/#-06-cap-04-coordenação-entre-tarefas) | 07. Publicar imagem do banco e app web no hub.docker.com |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Adlem Dutra da Silva (20171014040021) | - | - | - | - | - | - | - |
 | 02 | Andre Luiz Bezerra Costa (20172014040011) | [01](20172014040011/avaliacao-01.pdf) | - | [03](20172014040011/avaliacao-03.pdf) | - | - | - | - |
